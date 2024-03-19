@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+// const element = <h1> This is heading of the page </h1>;
 root.render(
   <React.StrictMode>
     <App />
